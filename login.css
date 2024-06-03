@@ -1,0 +1,9 @@
+body{
+    background-image: url('../images/image\ 36.png');
+}
+
+.images{
+    position: absolute; 
+    margin-top: -400px;
+    width: 300px; height: 200; display: flex; justify-content: center;
+}
